@@ -26,8 +26,8 @@ python manage.py migrate
 1) Python
 2) Django
 3) Django Rest Framework
-4)MYSQL
-5)django-cors-headers
+4) MYSQL
+5) django-cors-headers
 ### For Testing Output of Application
 1) REST Client
 2) Postman
